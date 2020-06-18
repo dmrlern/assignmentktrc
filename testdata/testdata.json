@@ -1,0 +1,14 @@
+{
+  "n11.com": {
+    "baseUrl": "https://www.n11.com/",
+    "homePageTitle": "n11.com - Alışverişin Uğurlu Adresi",
+    "loginEmail": "testn11eren@outlook.com",
+    "loginPassword": "testn11pass",
+    "fullName": "Eren Demirel",
+    "searchResultsForSamsungSecondPageTitle": "Samsung - n11.com<"
+  },
+  "someOtherSite": {
+    "baseUrl": "blabla",
+    "title": "fgdjfgfh"
+  }
+}
