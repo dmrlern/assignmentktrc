@@ -3,7 +3,7 @@
 *config/config.properties* dosyası içerisinde browser ve driver path'i güncelleyiniz. Test class'ları *src/test/java/testclasses/* altındadır. Junit @Nested annotation'ı kullanılarak organize edilmiştir.
 
 ## Dosya Lokasyonları
-Dosya bir adet log dosyası üretmektedir. Ayrıca ürün adının yazdırıldığı bir adet genel amaçlı txt dosyası üretmektedir. Bunun yanında test datası dataların json şeklined tutulduğu dosyadan okunmaktadır.
+Proje bir adet log dosyası üretmektedir. Ayrıca ürün adının yazdırıldığı bir adet genel amaçlı txt dosyası üretmektedir. Bunun yanında test datası dataların json şeklined tutulduğu dosyadan okunmaktadır.
 Lokasyonlar: 
 src/main/resources/productinfo.txt
 src/main/resources/logfile.log
